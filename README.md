@@ -154,8 +154,6 @@ The application relies on Vite environment variables prefixed with `VITE_`.
 |---|---|---|
 | `VITE_SUPABASE_URL` | **Yes** | Your Supabase project URL (e.g. `https://xyz.supabase.co`). Found under Project Settings → API. |
 | `VITE_SUPABASE_PUBLISHABLE_KEY` | **Yes** | Your Supabase anon / publishable public API key. Found under Project Settings → API. |
-| `VITE_IMAGEKIT_URL_ENDPOINT` | *Optional* | Optional ImageKit CDN URL endpoint if integrating ImageKit delivery. |
-
 ---
 
 ## .env Configuration
